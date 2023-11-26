@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dr-rompecabezas
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on open source education
+- 🌱 I’m currently learning Django, Flask, and FastAPI
+- 💞️ I’m looking to collaborate on open-source education
 - 📫 Reach me at @dr-rompecabezas
 
 <!---
