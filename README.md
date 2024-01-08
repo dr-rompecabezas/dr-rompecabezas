@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dr-rompecabezas
+- 👋 Hi, I’m Felipe Villegas
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Django, Flask, and FastAPI
 - 💞️ I’m looking to collaborate on open-source education
