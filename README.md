@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe Villegas
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Django, Flask, and FastAPI
+- 🌱 I’m currently learning Django and htmx
 - 💞️ I’m looking to collaborate on open-source education
 - 📫 Reach me at felavid@gmail.com
 
