@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Villegas
-- 👀 I’m interested in fullstack web development and AI
+- 👀 I’m interested in fullstack, AI, DevOps
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on the Django project
+- 💞️ I’m looking to contribute to Django and related packages
 - 📫 Reach me at felavid@gmail.com
 
 <!---
