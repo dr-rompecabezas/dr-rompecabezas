@@ -22,10 +22,10 @@ When I'm not coding, you'll find me thinking about how technology can be put to 
 
 ## Tech Stack
 
-**Backend:** Python · Django · Wagtail · PostgreSQL
-**Frontend:** JavaScript · HTMX · Alpine.js · Tailwind CSS
-**AI/ML:** Generative AI · Deep Neural Networks · Jupyter
-**Infra & Tools:** Railway · Heroku · Cloudflare · S3 · Git
+- **Backend:** Python · Django · Wagtail · PostgreSQL
+- **Frontend:** JavaScript · HTMX · Alpine.js · Tailwind CSS
+- **AI/ML:** Generative AI · Deep Neural Networks · Jupyter
+- **Infra & Tools:** Railway · Heroku · Cloudflare · S3 · Git
 
 ---
 
