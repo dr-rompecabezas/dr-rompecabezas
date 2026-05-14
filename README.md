@@ -14,7 +14,7 @@ When I'm not coding, you'll find me thinking about how technology can be put to 
 
 ## What I'm Working On
 
-- 🧩 **[wagtail-lms](https://github.com/dr-rompecabezas/wagtail-lms)** — An LMS extension for Wagtail CMS
+- 🎾 **[QlubPro](https://qlubpro.com/)** — League management SaaS for sports clubs
 - 🤖 Deepening my practice in generative AI and LLM integration
 - 🌐 Contributing to Django-related open-source packages
 
